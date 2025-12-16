@@ -10,7 +10,7 @@ import java.time.Instant;
 @Table(name = "orders")
 @Getter@Setter@Builder
 @NoArgsConstructor@AllArgsConstructor
-public class order {
+public class Order {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
