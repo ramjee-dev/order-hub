@@ -1,0 +1,14 @@
+/target/
+/**/target/
+*.log
+*.iml
+.idea/
+/.vscode/
+*.class
+.DS_Store
+/.mvn/wrapper/maven-wrapper.jar
+.settings/
+bin/
+out/
+/.gradle/
+/*.jar
